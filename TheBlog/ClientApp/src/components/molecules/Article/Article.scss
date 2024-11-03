@@ -1,0 +1,13 @@
+.article {
+    &__header {
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    &__author {
+        color: gray;
+    }
+
+    &__text {
+        font-family: sans-serif;
+    }
+}

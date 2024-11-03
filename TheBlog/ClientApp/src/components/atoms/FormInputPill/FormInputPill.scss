@@ -1,0 +1,9 @@
+.userForm {
+  &__input {
+    background-color: var(--bs-gray-100) !important;
+  }
+
+  &__label {
+    color: var(--bs-gray-500) !important;
+  }
+}

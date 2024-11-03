@@ -1,0 +1,10 @@
+.menu {
+  &__submit-button {
+    background-color: var(--bs-orange) !important;
+    border: none !important;
+
+    &--loading {
+        background-color: var(--bs-gray-400) !important;
+    }
+  }
+}
